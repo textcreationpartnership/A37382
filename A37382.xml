@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the seige and taking of the famous city of Gran in Hungary in a letter from a gentleman there, to his correspondent in London.</title>
+            <author>N. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37382</idno>
+            <idno type="STC">Wing D70</idno>
+            <idno type="STC">ESTC R7207</idno>
+            <idno type="EEBO-CITATION">13228479</idno>
+            <idno type="OCLC">ocm 13228479</idno>
+            <idno type="VID">98593</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98593)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 451:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the seige and taking of the famous city of Gran in Hungary in a letter from a gentleman there, to his correspondent in London.</title>
+                  <author>N. D.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Mallet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: N. D.</note>
+                  <note>Caption title.</note>
+                  <note>Dated "October 2d"</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Esztergom (Hungary) --  Siege.</term>
+               <term>Hungary --  History --  1683-1848 --  Sources.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:98593:1"/>
+            <pb facs="tcp:98593:1" rendition="simple:additions"/>
+            <head>A TRUE ACCOUNT Of the Seige, and taking of the Famous City of <hi>Gran</hi> in <hi>Hungary,</hi> in a Letter from a Gentleman there, to his Correſpondent in <hi>London.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>OCTOBER 2d.</date>
+               </dateline>
+               <lb/>
+               <salute>Honoured Sir;</salute>
+            </opener>
+            <p>I hope, mine of <hi>September</hi> the 20th. came ſafe to your hand, and what was contained was very acceptable. I have now greater news to impart of the happy Progreſs of the Chriſti<g ref="char:EOLhyphen"/>an Armies, of the taking of <hi>Gran,</hi> but before I be<g ref="char:EOLhyphen"/>gin, I think it convenient, to give you a ſhort Deſcription of this Famous Town <hi>Gran,</hi> anti<g ref="char:EOLhyphen"/>ently called <hi>Arigimum,</hi> is very ſtrongly ſeated upon the Danub, and defended with Extraordi<g ref="char:EOLhyphen"/>nary Walls, and deep Ditches, having a moſt impregnable Caſtle, upon a little Hill called St. <hi>Thomas</hi>'s, a prety way out of the Town, ſo they that beſeige <hi>Gran,</hi> are forced to take this ſtrong Caſtle, or elſe they will be continually plagued by the Enemies Cannon upon their Backs. Our Army having defeated the Turks at <hi>Barkan,</hi> &amp; ſo having made the way open, reſolved upon the Seige of this Town, which has been in the hands of the Turks, ever ſince the time of <hi>Ach<g ref="char:EOLhyphen"/>met</hi> the 8th. and upon the 14th. of the laſt they called a General Council of War, where it was reſolved firſt to fall upon St. <hi>Thomas Fore,</hi> which we next day, began with great bravery, the Turks making ſeveral furious Salleys, and perpetually playing upon us, but we beat them back with great ſlaughter, our Cannons anſwer<g ref="char:EOLhyphen"/>ing them in the ſame Language, which was con<g ref="char:EOLhyphen"/>veniently planted on another hill, elevated much
+<pb n="2" facs="tcp:98593:2"/>
+by Art. This hot ſervice continued ſeveral days, but at laſt our Cannon making a great breach <hi>&amp;,</hi> many of the Turks being killed, and ſeeing no hope of relief, they came to a parley, and the day after it was ſurrendred, they having Good Military Honourable Conditions, and as ſoon as the Poles ſaw the Caſtle was ſurrendred, ſeveral of them went to the King, <hi>&amp;</hi> the Duke of <hi>Lor<g ref="char:EOLhyphen"/>rain,</hi> to beg the moſt difficult places in the attaque of the Town; which honourable requeſt, the KING with tears of joy Granted them; then we ſurrendred the Town, <hi>making</hi> the <hi>greateſt</hi> effect upon the lower Town, and after ma<g ref="char:EOLhyphen"/>ny furious aſſaults, at laſt carry'd it; when they of the <hi>higher</hi> town, ſaw that the Caſtle was taken, and that the lower town was loſt and that all hopes of ſuccour was <hi>gone,</hi> their Garriſon <hi>being</hi> reduced to a ſmall number, they <hi>hung</hi> out the vvhite <hi>Flag,</hi> and ſubmitted to ſuch Conditions as pleaſed our Commanders, <hi>which however were</hi> honourable <hi>enough.</hi> Thus vvith no <hi>great</hi> loſs of the Chriſtian ſide, but of many hundreds of the Turks, is this <hi>great</hi> tovvn (once the <hi>Bull-work of</hi> Chriſtiandom) <hi>now</hi> again in the hands <hi>of</hi> the Chri<g ref="char:EOLhyphen"/>ſtians, and our Army, is <hi>now</hi> upon the march, to <hi>beſeige Buda,</hi> the Metropolis <hi>of</hi> all <hi>Hungary, of which</hi> I hope <hi>we</hi> ſhall <hi>give</hi> account e're <hi>long,</hi> in the interim.</p>
+            <closer>
+               <signed>I Reſt your aſſured Friend <hi>N. D.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Entered according to order.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed by <hi>E. Mallet,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
